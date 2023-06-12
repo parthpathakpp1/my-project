@@ -57,7 +57,7 @@ const Experience = () => {
               <BsFillPatchCheckFill />
               <div>
                 <h4>Tailwind</h4>
-                <small className='text-light'>Learning</small>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
 

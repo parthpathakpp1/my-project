@@ -32,9 +32,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hey Myself Parth Pathak. I am currently in my first year of Engineering in Computer Science. I have been working on web
-            development for past 9 months and I have made many projects . I have good knowledge of HTML,CSS,JS and Frameworks
-            like React,Bootstrap.
+            Hello, I'm Parth Pathak. I've been working in web development for the past year and have completed numerous projects. I possess a strong proficiency in HTML, CSS, JavaScript, as well as frameworks such as React, Bootstrap, Node.js, and MongoDB. I am a full-stack developer.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

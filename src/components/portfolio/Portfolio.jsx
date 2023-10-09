@@ -74,10 +74,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG6} alt='' />
           </div>
-          <h3>This is a Portfolio item title</h3>
+          <h3>Apple Doors</h3>
           <div className='.portfolio__item-cta'>
-            <a href='https://github.com' target='_blank' className='btn'>GitHub</a>
-            <a href='https://dribble.com/Alien_pixels' target='_blank' className='btn btn-primary'>Live Demo</a>
+            <a href='https://github.com/parthpathakpp1/AppleDoors/tree/master' target='_blank' className='btn'>GitHub</a>
+            <a href='https://appleee-doors.onrender.com/' target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
 

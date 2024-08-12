@@ -26,6 +26,19 @@ const Portfolio = () => {
           </div>
         </article>
 
+         <div className='container portfolio__container'>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG1} alt='' />
+          </div>
+          <h3>Ecommerce Website</h3>
+          <div className='.portfolio__item-cta'>
+            <a href='https://github.com/parthpathakpp1/mern-ecommerce-application' target='_blank' className='btn'>GitHub</a>
+            <a href='https://clumsy-lime-belt.cyclic.cloud/' target='_blank' className='btn btn-primary'>Live Demo</a>
+          </div>
+        </article>
+        
+
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG2} alt='' />

@@ -59,16 +59,7 @@ const Portfolio = () => {
           </div>
         </article>
 
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG5} alt='' />
-          </div>
-          <h3>Github Account Search</h3>
-          <div className='.portfolio__item-cta'>
-            <a href='https://github.com/parthpathakpp1/search-github-next' target='_blank' className='btn'>GitHub</a>
-            <a href='https://search-github-next.vercel.app/' target='_blank' className='btn btn-primary'>Live Demo</a>
-          </div>
-        </article>
+      
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>

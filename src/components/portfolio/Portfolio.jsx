@@ -19,10 +19,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG1} alt='' />
           </div>
-          <h3>Ecommerce Website</h3>
+          <h3>Insta Mess</h3>
           <div className='.portfolio__item-cta'>
-            <a href='https://github.com/parthpathakpp1/mern-ecommerce-application' target='_blank' className='btn'>GitHub</a>
-            <a href='https://clumsy-lime-belt.cyclic.cloud/' target='_blank' className='btn btn-primary'>Live Demo</a>
+            <a href='https://github.com/parthpathakpp1/ChatApp' target='_blank' className='btn'>GitHub</a>
+            <a href='https://chatapp-lsvk.onrender.com/' target='_blank' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
         
